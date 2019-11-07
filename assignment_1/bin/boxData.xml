@@ -1,0 +1,31 @@
+<boxes>
+  <box/>
+  <move y="-50">
+    <move x="-70"> 
+      <box/>
+    </move>
+    <move x="70"> 
+      <box/>
+    </move>
+  </move>
+  <move y="70">
+    <move x="-50" y="-20">
+      <box/>
+      <move x="20" y="20">
+        <box/>
+        <move x="20">
+          <box/>
+          <move x="20">
+            <box/>
+            <move x="20">
+              <box/>
+              <move x="20" y="-20">
+                <box/>
+              </move>        
+            </move>
+          </move>
+        </move>
+      </move>
+    </move>
+  </move>
+</boxes>
